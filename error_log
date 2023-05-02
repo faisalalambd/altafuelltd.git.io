@@ -1,0 +1,42 @@
+[09-Jan-2023 01:47:06 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:08 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:09 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:10 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:11 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:48:50 America/New_York] PHP Parse error:  Unmatched '}' in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 68
+[09-Jan-2023 01:48:54 America/New_York] PHP Parse error:  Unmatched '}' in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 68
+[09-Jan-2023 01:49:50 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[09-Jan-2023 01:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/index.php on line 13
+[11-Jan-2023 05:09:22 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/blog.php on line 42
+[11-Jan-2023 05:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/blog.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/blog.php on line 42
+[11-Jan-2023 06:08:20 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/altafuel.srsoftbd.xyz/service.php on line 56
+[11-Jan-2023 06:08:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srsomgcd/altafuel.srsoftbd.xyz/service.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/srsomgcd/altafuel.srsoftbd.xyz/service.php on line 56
